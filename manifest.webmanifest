@@ -1,0 +1,1 @@
+{"name":"ABR Cipher","short_name":"ABRCipher","description":"Cifrado Seguro en el Navegador","start_url":"/cipher-public/","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","lang":"en","scope":"/cipher-public/","icons":[{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml"}]}

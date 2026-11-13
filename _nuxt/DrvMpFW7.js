@@ -1,1 +1,0 @@
-import{_ as n,A as o,B as s,ae as t}from"./6oyVHKoT.js";const c={},r={class:"min-h-screen bg-zinc-50 dark:bg-zinc-950 font-sans selection:bg-indigo-200 selection:dark:bg-indigo-900/50 transition-colors duration-300"};function a(e,i){return o(),s("div",r,[t(e.$slots,"default")])}const l=n(c,[["render",a]]);export{l as default};
